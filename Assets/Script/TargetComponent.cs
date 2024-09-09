@@ -19,8 +19,6 @@ public class TargetComponent : MonoBehaviour
             }
         }
 
-   
-
     }
 
     void ChangeColorBack()
